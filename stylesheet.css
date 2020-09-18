@@ -29,7 +29,7 @@ body{
     padding: 0 30px;
 }
 .main-content{
-    padding-left: 30%;
+    padding-left: 35%;
 }
 .container{
     max-width: 1100px;
@@ -38,7 +38,7 @@ body{
 }
 /* Aside */
 .aside{
-    width: 30%;
+    width: 35%;
     background-color: #fdf9ff; 
     position: fixed;
     height: 100%;
